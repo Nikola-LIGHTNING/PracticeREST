@@ -8,7 +8,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class PracticeApplicationTests {
 
-
 	@Test
 	@DisplayName("JUnit 5 Test")
 	void contextLoads() {
